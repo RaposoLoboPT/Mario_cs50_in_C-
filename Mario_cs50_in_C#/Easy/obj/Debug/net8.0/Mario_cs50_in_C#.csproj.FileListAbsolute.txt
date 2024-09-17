@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\bin\Debug\net8.0\Mario_cs50_in_C#.exe
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\bin\Debug\net8.0\Mario_cs50_in_C#.deps.json
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\bin\Debug\net8.0\Mario_cs50_in_C#.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\bin\Debug\net8.0\Mario_cs50_in_C#.dll
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\bin\Debug\net8.0\Mario_cs50_in_C#.pdb
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.dll
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\refint\Mario_cs50_in_C#.dll
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.pdb
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\Mario_cs50_in_C#.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documentos\Programming\Mario_cs50_in_C#\Easy\obj\Debug\net8.0\ref\Mario_cs50_in_C#.dll
